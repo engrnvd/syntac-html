@@ -129,7 +129,7 @@ section {background: #DAD8D4;}
 /* Name Area */
 .name-area {position: absolute; right: 0; width: 573px; top: 391px;}
 
-.name-area h1 a { color: #F0F0F0; padding: 22px 57px 22px 130px; display: table; margin-bottom: 10px; line-height: 40px;}
+.name-area h1 a { color: #F0F0F0; padding: 0.5em 1em; display: table; margin-bottom: 10px; line-height: 40px;}
 
 .name-area p {color: #F0F0F0;}
 
